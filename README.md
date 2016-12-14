@@ -17,17 +17,20 @@ Dit is de [OVER DE SCHUTTING](http://21281.hosts.ma-cloud.nl/bewijzenmap2/period
 
 0. PHP
 0. MySQL
+0. Html
+0. Css
+0. Smarty
 
 ## Producten
 
 Dit zijn de producten die wij moeten maken.
 
 - [ ] ERD
-- [ ] Acceptatie-testen
-- [ ] Genormaliseerde database
+- [ ] Website Sucure
+- [ ] Login / Register
+- [ ] Toolbar voor edit
 - [ ] Functionerende en opgeleverde CMS
 - [ ] Project op Github met meerdere commits (version control)
-- [ ] Handleiding bij CMS
 
 ## License
 
