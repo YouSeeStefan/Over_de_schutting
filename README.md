@@ -1,4 +1,4 @@
-# ## Project - Schoolcheck
+## Project - Schoolcheck
 
 De beheerder wil een CMS waarmee je alle informatie over de scholen kan aanpassen. Open dagen toevoegen, foto’s, etc.
 
