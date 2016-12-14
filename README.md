@@ -34,8 +34,7 @@ Dit zijn de producten die wij moeten maken.
 
 ## Documentatie
 
-* [Bebruikers / Werkzaamheden](https://docs.google.com/document/d/1hO9SM-mp0XZ5nZDLADPyUZozEN1RQGwUfSPatQaKzm8/edit)
-<a href="https://docs.google.com/document/d/1hO9SM-mp0XZ5nZDLADPyUZozEN1RQGwUfSPatQaKzm8/edit" target="_blank">example</a>
+* [Bebruikers / Werkzaamheden](https://docs.google.com/document/d/1hO9SM-mp0XZ5nZDLADPyUZozEN1RQGwUfSPatQaKzm8/edit){:target="_blank"}
 
 ## License
 
