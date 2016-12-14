@@ -32,6 +32,10 @@ Dit zijn de producten die wij moeten maken.
 - [ ] Functionerende en opgeleverde CMS
 - [ ] Project op Github met meerdere commits (version control)
 
+## Documentatie
+
+* [gebruikers / Werkzaamheden](https://docs.google.com/document/d/1hO9SM-mp0XZ5nZDLADPyUZozEN1RQGwUfSPatQaKzm8/edit)
+
 ## License
 
 School opdracht van het [MediaCollege](https://www.ma-web.nl/).
