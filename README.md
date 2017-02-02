@@ -8,7 +8,7 @@ Website voor de gemeente Volendam / Edam.
 * Mauro Bertozzi
 * Frank van der Velden
 
-Dit is de [OVER DE SCHUTTING](http://21281.hosts.ma-cloud.nl/bewijzenmap2/periode1/BAC/Overdeschutting) website die wij hebben gemaakt. Hier kunt u onze website vinden.
+Dit is de [OVER DE SCHUTTING](http://21281.hosts.ma-cloud.nl/vanklomptotkunst/vanklomptotkunst/index.php) website die wij hebben gemaakt. Hier kunt u onze website vinden.
 
 
 ## Gebruikte code
