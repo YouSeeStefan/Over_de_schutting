@@ -20,7 +20,7 @@ include_once 'connect.php';
 
 if($num_rows >0){
   echo "<script>alert('dit e-mail is al in gebruik');
-    window.location='index.html'</script>"; 
+    window.location='registratie.html'</script>"; 
 }
 
 else {
@@ -32,7 +32,6 @@ VALUES ('$name', '$username', '$password', '$email')";
     window.location='index.html'</script>";
     }else
     {
-      echo "kanker neger";
         echo "Error: " . $query . "<br>" . $mysqli->error;
     }
 }

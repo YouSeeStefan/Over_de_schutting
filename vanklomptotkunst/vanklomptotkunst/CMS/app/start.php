@@ -12,7 +12,7 @@ $username = "root";
 $password = "duwmxemx";
 
 try {
-    $conn = new PDO("mysql:host=$servername;dbname=21281_cms", $username, $password);
+    $conn = new PDO("mysql:host=$servername;dbname=cms", $username, $password);
     // set the PDO error mode to exception
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     }
